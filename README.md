@@ -1,37 +1,52 @@
 # -Homework-
-Лабораторная
+Лабораторная работа 4
+задание 1
+![IMG_1002](https://github.com/user-attachments/assets/3df39191-b5ff-4a32-a5cf-b868ecf4f956)
 
- ![photo_2025-09-22_20-09-09](https://github.com/user-attachments/assets/dfcad1d6-8ad4-4a07-944f-fdf0e8494d91)
 Задание 2
- ![2](https://github.com/user-attachments/assets/445b28fb-43c5-41b5-89db-096d76b33b26)
+ ![IMG_1003](https://github.com/user-attachments/assets/7166c7a1-ac40-4074-9f8e-68048469bfef)
+
 Задание 3
-![3](https://github.com/user-attachments/assets/7f7fd355-bd75-4a38-971c-d710c2a0c2db)
+![IMG_1004](https://github.com/user-attachments/assets/ea09bf41-cda4-48db-acf3-3d904fc123c6)
+
 Задание 4
-![4](https://github.com/user-attachments/assets/631495a9-691d-41b1-bd81-26a236ad6e6e)
+![IMG_1005](https://github.com/user-attachments/assets/8c69ebab-d988-4ea3-88ed-25894272da3a)
+
 Задание 5
-![5](https://github.com/user-attachments/assets/f6ef1645-512b-46ee-a2cd-200e9caab98f)
+![IMG_1006](https://github.com/user-attachments/assets/ba24d374-300d-4c6d-b665-f2f2b9e1a18f)
+
 Задание 6
-![6](https://github.com/user-attachments/assets/514847e8-a92f-4dca-a32b-d1cdba516b3f)
+![IMG_1007](https://github.com/user-attachments/assets/ab87595c-caf8-4fa4-8b78-aea7dd925670)
+
 Задание 7
-![7](https://github.com/user-attachments/assets/f0707427-0f06-4c10-85c0-4c8a0846ba7f)
+![IMG_1008](https://github.com/user-attachments/assets/2e0268f5-5de9-4b5f-9aa6-ad05993c3209)
+
 Задание 8
-![8](https://github.com/user-attachments/assets/14d8823a-fa3e-40bf-84e3-8c78d02eed39)
+![IMG_1009](https://github.com/user-attachments/assets/875a23d3-ad41-4fb3-931e-364d0f34d7ca)
+
 Задание 9
-![9](https://github.com/user-attachments/assets/aa292eda-b988-40fb-80b5-d7f1d7783d63)
+![IMG_1010](https://github.com/user-attachments/assets/c6ccc37b-b700-47c4-97a5-64d66deba7b2)
+
 Задание 10
-![10](https://github.com/user-attachments/assets/8f92a579-1807-4d00-9da9-e7459f7366e9)
+![IMG_1011](https://github.com/user-attachments/assets/6ddf35ad-7884-423c-99d3-2cdb6678d2dc)
+
 
 Самостоятельная работа
 Задание 1
-![1](https://github.com/user-attachments/assets/c2ed78f4-2a41-4b2d-8bc2-a512ebeb5128)
+![IMG_1012](https://github.com/user-attachments/assets/1cd32ed4-f3e0-4e0f-92c5-11f8a4e2dd48)
+
 Задание 2
-![2](https://github.com/user-attachments/assets/8c8d06d9-c9cc-463d-96ee-0d04d16fd2be)
+![IMG_1013](https://github.com/user-attachments/assets/e0aed1df-e8f2-412c-8c78-498cd952c896)
+
 Задание 3
-![3](https://github.com/user-attachments/assets/3aa15677-7376-4765-9a7f-3f3045d0e6f9)
+![IMG_1014](https://github.com/user-attachments/assets/214f8d7e-fc17-443e-bf81-916d98dab91e)
+
 Задание 4
-![4](https://github.com/user-attachments/assets/541231b4-2d99-4196-a2ad-cfd6d7f5d20d)
+![IMG_1015](https://github.com/user-attachments/assets/788a3c2c-c8e7-4572-bf91-e0cc789c1552)
+
 Задание 5
-![5](https://github.com/user-attachments/assets/5efd6f03-5d4a-4e48-bcbc-dd4d5a3a4cd3)
+![IMG_1016](https://github.com/user-attachments/assets/fac426bb-d073-4828-82d4-d24def614497)
+
 
 
 
