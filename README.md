@@ -1,37 +1,37 @@
 # -Homework-
-Лабораторная
+Лабораторная 6
 Задание 1
- ![photo_2025-09-22_20-09-09](https://github.com/user-attachments/assets/dfcad1d6-8ad4-4a07-944f-fdf0e8494d91)
-Задание 2
- ![2](https://github.com/user-attachments/assets/445b28fb-43c5-41b5-89db-096d76b33b26)
-Задание 3
-![3](https://github.com/user-attachments/assets/7f7fd355-bd75-4a38-971c-d710c2a0c2db)
-Задание 4
-![4](https://github.com/user-attachments/assets/631495a9-691d-41b1-bd81-26a236ad6e6e)
-Задание 5
-![5](https://github.com/user-attachments/assets/f6ef1645-512b-46ee-a2cd-200e9caab98f)
-Задание 6
-![6](https://github.com/user-attachments/assets/514847e8-a92f-4dca-a32b-d1cdba516b3f)
-Задание 7
-![7](https://github.com/user-attachments/assets/f0707427-0f06-4c10-85c0-4c8a0846ba7f)
-Задание 8
-![8](https://github.com/user-attachments/assets/14d8823a-fa3e-40bf-84e3-8c78d02eed39)
-Задание 9
-![9](https://github.com/user-attachments/assets/aa292eda-b988-40fb-80b5-d7f1d7783d63)
-Задание 10
-![10](https://github.com/user-attachments/assets/8f92a579-1807-4d00-9da9-e7459f7366e9)
+![IMG_1040](https://github.com/user-attachments/assets/41df8a6a-90ae-4880-b2d4-8f32b4fb1922)
 
-Самостоятельная работа
-Задание 1
-![1](https://github.com/user-attachments/assets/c2ed78f4-2a41-4b2d-8bc2-a512ebeb5128)
 Задание 2
-![2](https://github.com/user-attachments/assets/8c8d06d9-c9cc-463d-96ee-0d04d16fd2be)
+![IMG_1041](https://github.com/user-attachments/assets/18c2e810-e2b8-4716-b04a-64edcccfec5e)
+
 Задание 3
-![3](https://github.com/user-attachments/assets/3aa15677-7376-4765-9a7f-3f3045d0e6f9)
+![IMG_1042](https://github.com/user-attachments/assets/967b367e-bc0b-4afb-8d61-ad983c4f24a6)
+
 Задание 4
-![4](https://github.com/user-attachments/assets/541231b4-2d99-4196-a2ad-cfd6d7f5d20d)
+![IMG_1043](https://github.com/user-attachments/assets/b055fd33-31a7-451d-b0e7-cfa221248f64)
+
 Задание 5
-![5](https://github.com/user-attachments/assets/5efd6f03-5d4a-4e48-bcbc-dd4d5a3a4cd3)
+![IMG_1044](https://github.com/user-attachments/assets/20fd45e6-adb5-4e11-9dad-0f528a0f2678)
+
+
+Самостоятельная работа 6
+Задание 1
+![IMG_1045](https://github.com/user-attachments/assets/629284fa-2a22-49a7-9516-93ab6feaa659)
+
+Задание 2
+![IMG_1046](https://github.com/user-attachments/assets/af85e759-0a06-473f-95b7-c0c1883ca9a4)
+
+Задание 3
+![IMG_1047](https://github.com/user-attachments/assets/4baab008-7764-4417-943a-4972c6ca58b3)
+
+Задание 4
+![IMG_1048](https://github.com/user-attachments/assets/75fd06cb-7068-4532-88e1-430b36966e7b)
+
+Задание 5
+![IMG_1049](https://github.com/user-attachments/assets/8d658484-4bea-4f8a-bc67-3de8b028b704)
+
 
 
 
